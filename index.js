@@ -34,6 +34,8 @@ const flipped = [
   'drillbeak',
   'enhancedpropulsion',
   'tractortentacles',
+  'swivelwing',
+  'swivelwing-sideb',
 ];
 
 const runner = async () => {
